@@ -8,5 +8,5 @@
 
 ## 结果截图
 
-![image](https://github.com/2019NJUSAT/White-Box-Testing-/blob/master/IMG/image-20191115210656311.png)
+![image](https://github.com/d289760860/White-Box-Testing/blob/master/IMG/result.PNG)
   
