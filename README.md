@@ -8,5 +8,5 @@
 
 ## 结果截图
 
-![image](https://github.com/d289760860/White-Box-Testing/blob/master/IMG/result.PNG)
+![image](https://github.com/d289760860/White-Box-Testing/raw/master/IMG/result.PNG)
   
